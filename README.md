@@ -52,4 +52,5 @@ Structured incident summary with impact and recommended actions
 ## Status
 
 v1 – End-to-end working LLM integration  
+Added exception handling and unit test case .
 Further improvements planned (robust parsing, error handling, observability)
